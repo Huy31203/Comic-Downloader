@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Comic Downloader</string>
+    <string name="enter_comic_url">Enter comic URL</string>
+    <string name="download_images">Download Images</string>
+    <string name="status_idle">Status: Idle</string>
+    <string name="status_downloading">Downloading…</string>
+    <string name="status_complete">Download complete!</string>
+    <string name="status_error">Error: %1$s</string>
+    <string name="toast_enter_url">Please enter a URL</string>
+</resources>
